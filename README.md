@@ -48,3 +48,4 @@ RunService.RenderStepped:Connect(function()
         setVelocidade(velocidadeMaxima)
     end
 end)
+.lua
